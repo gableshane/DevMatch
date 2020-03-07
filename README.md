@@ -1,10 +1,8 @@
-# PAWnder
-Dating APP for dogs!
+# DevMatch
 
 ## Team member 
 Jitendra Bajracharya, Shane Gable, Travis Coots, Yihang Zhang, Mattäus Sebastian Isenberg
 
 ## MVP 
-- User can log in and register, add dogs to their profile. 
-- Find other dogs in the area and match with those. 
-- Message those other dog's owners.
+- User can register and log in to create a profile and add skills then view projects to work on and match with them based on skill
+- user can also create a project and see who has liked their project and can like them back in order to enable messaging 
